@@ -1,0 +1,25 @@
+{
+	"money": [
+		{
+			"name": "Yair",
+			"moneySpent": 10.1,
+			"category": "Groceries"
+		},
+		{
+			"name": "Avi",
+			"moneySpent": 1,
+			"category": "AWS"
+		},
+		{"name": "Yair", "moneySpent": 7.2, "category": "Groceries"},
+		{"name": "Avi", "moneySpent": 11.3, "category": "AWS"},
+		{"name": "Idan", "moneySpent": 44.9, "category": "Office"},
+		{"name": "Yair", "moneySpent": 133.04, "category": "Hardware"},
+		{"name": "Avi", "moneySpent": 1.6, "category": "Hardware"},
+		{"name": "Avi", "moneySpent": 8.4, "category": "Hardware"},
+		{"name": "Idan", "moneySpent": 12.7, "category": "Office"},
+		{"name": "Idan", "moneySpent": 34.19, "category": "Hardware"},
+		{"name": "Avi", "moneySpent": 88.1, "category": "Hardware"},
+		{"name": "Yair", "moneySpent": 50.99, "category": "AWS"},
+		{"name": "Avi", "moneySpent": 73.8, "category": "Hardware"}
+	]
+}
